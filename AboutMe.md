@@ -1,0 +1,5 @@
+-Aron
+-Git, Visual
+-Java, Python
+-I'm a student of Java backend programming
+-My interests are Economics, Finances and Politics 
